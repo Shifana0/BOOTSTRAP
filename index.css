@@ -1,0 +1,93 @@
+.nav-bar{
+    background-color:rgb(90, 78, 218) !important;
+    height:70px;
+   
+}
+a{
+    padding-left: 90px;
+    color: white;
+}
+.img{
+    position:relative;
+    left:50px;
+    transition: transform 2s width 2s;
+}
+.img:hover{
+    transform: rotate(30deg);
+    width:30px;
+}
+.img1{
+    width:20px;
+    height:20px;
+    position: relative;
+    left:-220px;
+    color: white;
+   
+}
+.nav-link{
+    color:white !important;
+    position: relative;
+    left:40px;
+}
+.navbar-brand{
+    color:white !important;
+    position: relative;
+    left:30px;
+}
+
+.search{
+position: relative;
+left:-10px;
+width:200px !important;
+background-color: rgb(90, 78, 218) !important;
+opacity: 0.1;
+color: white;
+
+}
+.d-flex{
+    border:1px solid white !important ;
+position:relative;
+left:-350px; 
+color:white;
+/* background-color: #0a063082 !important;  */
+}
+.icon{
+    width:30px;
+    height:40px;
+    /* position:relative;
+    left:-200px; */
+    margin-left: -300px !important;
+}
+.dropdown{
+    position: relative;
+    left:-200px;
+    background-color: rgb(90,78,218)!important;
+    width: auto !important;
+    /* border-right:2px solid white; */
+}
+.btn{
+    background-color: rgb(90,78,218)!important;
+    border:none !important ;
+   border-radius: 1px solid white !important;
+   border-right:1px solid white;
+}
+.btn1{
+    position: relative;
+    left:30px;
+    margin-left: 2px solid ;
+}
+.hy{
+    border-left: 2px solid rgba(255, 255, 255, 0.258);
+}
+.dropdown-item:hover{
+    background-color: rgb(90, 78, 218)!important;
+}
+.button{
+    background-color:rgba(0, 0, 0, 0.456) ;
+    color:white;
+    width:auto;
+    height:30px;
+}
+
+
+
